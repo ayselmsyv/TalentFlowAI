@@ -157,6 +157,6 @@ controls, background processing, monitoring, and an independent security
 review.
 ## Author
 
-Aysel Musayeva
+- Aysel Musayeva
 
-Zeynab Gurbanova
+- Zeynab Gurbanova
