@@ -155,3 +155,7 @@ employment, medical, or other sensitive information. A production deployment
 requires authenticated accounts, RBAC, secure document storage, privacy
 controls, background processing, monitoring, and an independent security
 review.
+## Author
+
+Aysel Musayeva
+Zeynab Gurbanova
